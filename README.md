@@ -1,6 +1,11 @@
 # SweHu
 Project on exploratory analysis of the Swedish/Stockholm housing market
 
+Prio:
+1. Setup .tex and makefile
+2. Get specified data sets
+3. Skim research for other relevant variables
+4. Skim research for models
 
 ToDo
 - Get Husprisindex data
