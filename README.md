@@ -13,6 +13,7 @@ ToDo
 - Get räntor (RB)
 - Get lönedata / löneökning (i stor-sthlm) (SCB)
 - Get Byggkostnader (i stor-sthlm) (SCB?)
+- Data on bankernas utlåning?
 - Other relevant Macro data?
 - Penn World Table useful?
 - Initially, try multiple regression on these variables.
