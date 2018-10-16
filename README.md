@@ -15,7 +15,7 @@ ToDo
 - Get Byggkostnader (i stor-sthlm) (SCB?)
 - Other relevant Macro data?
 - Penn World Table useful?
-- Initially try multiple regression on these variables.
+- Initially, try multiple regression on these variables.
 - Find research on factors affecting house prices.
 - Find models to explain housing prices.
 - Find models for exploratory analysis of housing prices.
