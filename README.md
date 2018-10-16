@@ -8,6 +8,8 @@ ToDo
 - Get räntor (RB)
 - Get lönedata / löneökning (i stor-sthlm) (SCB)
 - Get Byggkostnader (i stor-sthlm) (SCB?)
+- Other relevant Macro data?
+- Penn World Table useful?
 - Initially try multiple regression on these variables.
 - Find research on factors affecting house prices.
 - Find models to explain housing prices.
