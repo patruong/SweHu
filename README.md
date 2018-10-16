@@ -14,3 +14,7 @@ ToDo
 - Find models for exploratory analysis of housing prices.
 - Find models to predict housing prices.
 
+Goals:
+- Learn about models,
+- Learn about GitHub wiki as log.
+- Optional make a nice jupyter.
